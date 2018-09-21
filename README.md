@@ -1,2 +1,3 @@
 # FredriksTestRepo
 Testar att editera readme i branch....
+Ska vi se om detta syns i VS2015?
